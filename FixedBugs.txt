@@ -1,0 +1,17 @@
+Fixed Bugs (Started Recording on March 21st)
+
+-Heal Bug 
+-Double Message Heal Bug
+
+
+
+Bugs to Fix: (A list of bugs we encounter and haven't fixed yet)
+
+-Electric moves (Thundershock) deal damage to ground type
+
+Code for checking Username:
+
+from os import environ as env
+username = env["REPL_OWNER"]
+
+thats really cool

@@ -1,0 +1,36 @@
+
+                ##############
+                # To-Do List #
+                ##############
+
+SuryaRavi1:
+----------
+Revamp XP system
+Bug Fix
+
+ColoredHue:
+-----------
+[Due Today: ]
+> Make new pokemon equippable
+> Add new pokemon to pokedex
+> Bug Fix
+[Due By Next Week: ]
+> Lore writing
+> Add better Evolved Pokemon
+> Balancing
+[Due Later: ]
+> Add Campsite
+> Add Labratory in Big Blue (This will explain polarized-pokemon, you will also get a polarized gem)
+> Add polarized gem
+> Add ? after Vulpix Volcano
+> Think of a name for Jolteon's land
+
+Imeanbusiness:
+-------------
+Work on encounters to make them beatable
+Edit Grammar
+Edit areas
+
+TheWizardOfOz:
+--------------
+Log on to Replit
